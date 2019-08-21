@@ -1,16 +1,5 @@
 # hrd04-temperature-logger
 
-```
-  _    _ _____  _____   ___  _  _   
- | |  | |  __ \|  __ \ / _ \| || |  
- | |__| | |__) | |  | | | | | || |_ 
- |  __  |  _  /| |  | | | | |__   _|
- | |  | | | \ \| |__| | |_| |  | |  
- |_|  |_|_|  \_\_____/ \___/   |_|  
-                                    
-                                    
-```
-
 This is a project for the HRD-04. We want to measure the temperature of the air and water radiators in the car and safe this data so we can analyse it after a test. 
 
 **Rules:**
